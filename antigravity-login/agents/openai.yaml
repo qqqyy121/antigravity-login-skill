@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antigravity 登录助手"
+  short_description: "Fix Antigravity sign-in with a process proxy"
+  default_prompt: "Use $antigravity-login to diagnose my Antigravity sign-in failure and restart it with the working local proxy."
